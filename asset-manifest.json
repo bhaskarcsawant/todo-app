@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/todo-app/static/css/main.57a81445.css",
-    "main.js": "/todo-app/static/js/main.8b84b08f.js",
+    "main.css": "/todo-app/static/css/main.441c0448.css",
+    "main.js": "/todo-app/static/js/main.6c13fcd7.js",
     "static/media/poppins-all-400-normal.woff": "/todo-app/static/media/poppins-all-400-normal.d9177076ce88015af78a.woff",
     "static/media/poppins-all-600-normal.woff": "/todo-app/static/media/poppins-all-600-normal.69a5e00329a066e267e4.woff",
     "static/media/poppins-all-500-normal.woff": "/todo-app/static/media/poppins-all-500-normal.468213c1a9cf4ac0ed6b.woff",
@@ -19,11 +19,11 @@
     "static/media/poppins-latin-ext-700-normal.woff2": "/todo-app/static/media/poppins-latin-ext-700-normal.ecb421af890e30ac490b.woff2",
     "static/media/poppins-latin-ext-500-normal.woff2": "/todo-app/static/media/poppins-latin-ext-500-normal.64676cfe1b3697ce0aec.woff2",
     "index.html": "/todo-app/index.html",
-    "main.57a81445.css.map": "/todo-app/static/css/main.57a81445.css.map",
-    "main.8b84b08f.js.map": "/todo-app/static/js/main.8b84b08f.js.map"
+    "main.441c0448.css.map": "/todo-app/static/css/main.441c0448.css.map",
+    "main.6c13fcd7.js.map": "/todo-app/static/js/main.6c13fcd7.js.map"
   },
   "entrypoints": [
-    "static/css/main.57a81445.css",
-    "static/js/main.8b84b08f.js"
+    "static/css/main.441c0448.css",
+    "static/js/main.6c13fcd7.js"
   ]
 }
